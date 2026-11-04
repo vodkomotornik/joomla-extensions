@@ -25,7 +25,7 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 * Compatible with Joomla 3, 4, 5, and 6
 * Fully responsive on all devices
 
-**How to use:** *(add a short usage example here, e.g., the shortcode syntax)*
+**How to use:** *({juxtapose}img_1.jpg|img_2.jpg{/juxtapose})*
 
 </details>
 
@@ -39,9 +39,10 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 
 GNU General Public License v3.0 or later
 
-### Author
+### Links
 
-[vodkomotornik](https://github.com/vodkomotornik)
+* [Documentation](https://vodkomotornik.ru/poleznoe/joomla/50-plugin-juxtapose-joomla.html)
+* [Download](https://vodkomotornik.ru/runduk/download/12-poleznoe/17-plugin-content-compare-2-image-juxtapose-joomla.html)
 
 ---
 
@@ -66,7 +67,7 @@ GNU General Public License v3.0 or later
 * Совместимость с Joomla 3, 4, 5 и 6
 * Полностью адаптивный дизайн для всех устройств
 
-**Как использовать:** *(добавьте сюда пример синтаксиса, например, как вы вызываете плагин в тексте)*
+**Как использовать:** *({juxtapose}img_1.jpg|img_2.jpg{/juxtapose})*
 
 </details>
 
@@ -80,6 +81,7 @@ GNU General Public License v3.0 or later
 
 GNU General Public License v3.0 или новее
 
-### Автор
+### Ссылка
 
-[vodkomotornik](https://github.com/vodkomotornik)
+* [Описание расширения](https://vodkomotornik.ru/poleznoe/joomla/50-plugin-juxtapose-joomla.html)
+* [Скачать расширение](https://vodkomotornik.ru/runduk/download/12-poleznoe/17-plugin-content-compare-2-image-juxtapose-joomla.html)
