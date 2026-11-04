@@ -13,6 +13,7 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 | Type | Name | Description |
 |------|------|-------------|
 | Plugin | **plg_content_juxtapose** | Content plugin for comparing 2 images (before/after slider) |
+| Editor | **plg_editors_markitup_lite** | Lightweight HTML editor without external dependencies |
 
 <details>
 <summary><b>More about Content Compare Juxtapose plugin (click to expand)</b></summary>
@@ -25,7 +26,33 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 * Compatible with Joomla 3, 4, 5, and 6
 * Fully responsive on all devices
 
-**How to use:** *({juxtapose}img_1.jpg|img_2.jpg{/juxtapose})*
+**How to use:** `{juxtapose}img_1.jpg|img_2.jpg{/juxtapose}`
+
+**Links:**
+* [Documentation & Details](https://vodkomotornik.ru/poleznoe/joomla/50-plugin-juxtapose-joomla.html)
+* [Download](https://vodkomotornik.ru/runduk/download/12-poleznoe/17-plugin-content-compare-2-image-juxtapose-joomla.html)
+
+</details>
+
+<details>
+<summary><b>More about MarkItUp Editor Lite plugin (click to expand)</b></summary>
+
+**MarkItUp Editor Lite** – a simple, reliable, and ultra-lightweight HTML editor without external dependencies (about 2 KB of Vanilla JS, no jQuery required).
+
+Designed for quick HTML editing in Joomla 4/5/6 – without TinyMCE or JCE, without switching between visual and source modes, and without auto-formatting your code.
+
+Works in both the admin panel and the frontend. It can be attached to specific fields via CSS selectors and URL triggers.
+
+**Advantages:**
+* **HTML Safety:** Does not clean, reformat, or modify code automatically.
+* **No mode switching:** Always works with clean HTML.
+* **Joomla 4/5/6 compatibility:** Does not depend on specific core APIs or third-party libraries.
+* **Lightweight:** ~2 KB Vanilla JS, no jQuery.
+
+**Summary:** A small tool for quick and safe HTML editing where a full visual editor only gets in the way.
+
+**Links:**
+* [Download new version](https://vodkomotornik.ru/runduk/download/12-poleznoe/93-plugin-joomla-markitup-editor.html)
 
 </details>
 
@@ -39,11 +66,6 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 
 GNU General Public License v3.0 or later
 
-### Links
-
-* [Documentation](https://vodkomotornik.ru/poleznoe/joomla/50-plugin-juxtapose-joomla.html)
-* [Download](https://vodkomotornik.ru/runduk/download/12-poleznoe/17-plugin-content-compare-2-image-juxtapose-joomla.html)
-
 ---
 
 ## 🇷🇺 Русский
@@ -55,6 +77,7 @@ GNU General Public License v3.0 or later
 | Тип | Название | Описание |
 |-----|----------|----------|
 | Плагин | **plg_content_juxtapose** | Контент-плагин сравнения 2 изображений (шторка до/после) |
+| Редактор | **plg_editors_markitup_lite** | Легкий HTML-редактор без внешних зависимостей |
 
 <details>
 <summary><b>Подробнее о плагине Content Compare – Juxtapose (нажмите, чтобы развернуть)</b></summary>
@@ -67,7 +90,33 @@ GNU General Public License v3.0 or later
 * Совместимость с Joomla 3, 4, 5 и 6
 * Полностью адаптивный дизайн для всех устройств
 
-**Как использовать:** *({juxtapose}img_1.jpg|img_2.jpg{/juxtapose})*
+**Как использовать:** `{juxtapose}img_1.jpg|img_2.jpg{/juxtapose}`
+
+**Полезные ссылки:**
+* [Описание расширения](https://vodkomotornik.ru/poleznoe/joomla/50-plugin-juxtapose-joomla.html)
+* [Скачать расширение](https://vodkomotornik.ru/runduk/download/12-poleznoe/17-plugin-content-compare-2-image-juxtapose-joomla.html)
+
+</details>
+
+<details>
+<summary><b>Подробнее о плагине MarkItUp Editor Lite (нажмите, чтобы развернуть)</b></summary>
+
+**MarkItUp Editor Lite** – простой, надежный и максимально легкий HTML-редактор без внешних зависимостей – около 2 КБ Vanilla JS, без jQuery.
+
+Предназначен для быстрой правки HTML в Joomla 4/5/6 – без TinyMCE и JCE, без переключения между визуальным и исходным режимами и без автоматического изменения кода.
+
+Работает в админке и на фронтенде. Подключается только к нужным полям через CSS-селекторы и URL-триггеры.
+
+**Преимущества:**
+* **Сохранность HTML:** не чистит, не переформатирует и не изменяет код автоматически.
+* **Без переключения режимов:** всегда работает с чистым HTML.
+* **Joomla 4/5/6:** не зависит от специфичных API ядра и сторонних библиотек.
+* **Легковесность:** около 2 КБ Vanilla JS, без jQuery.
+
+**Итог:** небольшой инструмент для быстрой и безопасной правки HTML там, где полноценный визуальный редактор только мешает.
+
+**Полезные ссылки:**
+* [Скачать последнюю версию](https://vodkomotornik.ru/runduk/download/12-poleznoe/93-plugin-joomla-markitup-editor.html)
 
 </details>
 
@@ -80,8 +129,3 @@ GNU General Public License v3.0 or later
 ### Лицензия
 
 GNU General Public License v3.0 или новее
-
-### Ссылка
-
-* [Описание расширения](https://vodkomotornik.ru/poleznoe/joomla/50-plugin-juxtapose-joomla.html)
-* [Скачать расширение](https://vodkomotornik.ru/runduk/download/12-poleznoe/17-plugin-content-compare-2-image-juxtapose-joomla.html)
