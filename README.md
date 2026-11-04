@@ -16,6 +16,7 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 | Plugin | **plg_editors_markitup_lite** | Lightweight HTML editor without external dependencies |
 | Plugin | **plg_content_lazyspoiler** | Interactive spoilers with lazy image loading |
 | Plugin | **plg_content_fancybox_gallery** | Responsive galleries with WebP previews and FancyBox 5 |
+| Plugin | **plg_content_multivideo** | Multivideo embed (YouTube, RuTube, VK, Vimeo) with fallback tabs |
 
 <details>
 <summary><b>More about Content Compare Juxtapose plugin (click to expand)</b></summary>
@@ -104,6 +105,31 @@ The plugin automatically generates optimized WebP previews, integrates with Fanc
 
 </details>
 
+<details>
+<summary><b>More about Multivideo plugin (click to expand)</b></summary>
+
+**Multivideo** – a content plugin for Joomla 5/6 that solves the problem of blocked or unavailable videos. Add multiple video sources (YouTube, RuTube, VK Video, Vimeo) using a single shortcode, and the plugin will automatically create a convenient tabbed accordion.
+
+If one source is unavailable, users can switch to another one in a single click. Simple, reliable, and convenient!
+
+**Features:**
+* Modern Joomla 5/6 architecture (PSR-4, namespace)
+* Security (escaping, validation)
+* Multilingual (ru-RU / en-GB)
+* Clean UI (tabs, responsive design)
+* Customizable tab order
+* Informative errors (shows problematic URLs)
+* Ability to embed a single video
+* Joomla update notifications
+
+**How to use:**
+`{video href="URL1|URL2|URL3|URL4"}`
+
+**Links:**
+* [Download & Documentation](https://vodkomotornik.ru/runduk/download/12-poleznoe/94-multivideo-content-plugin-joomla.html)
+
+</details>
+
 ### Installation
 
 1. Download the desired ZIP file.
@@ -128,6 +154,7 @@ GNU General Public License v3.0 or later
 | Плагин | **plg_editors_markitup_lite** | Легкий HTML-редактор без внешних зависимостей |
 | Плагин | **plg_content_lazyspoiler** | Интерактивные спойлеры с ленивой загрузкой картинок |
 | Плагин | **plg_content_fancybox_gallery** | Адаптивные галереи с WebP-превью и FancyBox 5 |
+| Плагин | **plg_content_multivideo** | Мультивидео (YouTube, RuTube, VK, Vimeo) с вкладками |
 
 <details>
 <summary><b>Подробнее о плагине Content Compare – Juxtapose (нажмите, чтобы развернуть)</b></summary>
@@ -213,6 +240,31 @@ GNU General Public License v3.0 or later
 
 **Полезные ссылки:**
 * [Скачать и посмотреть документацию](https://vodkomotornik.ru/runduk/download/12-poleznoe/991-fancybox-gallery-plugin-joomla-download.html)
+
+</details>
+
+<details>
+<summary><b>Подробнее о плагине Multivideo (нажмите, чтобы развернуть)</b></summary>
+
+**Multivideo** – контент-плагин для Joomla 5/6, который решает проблему заблокированных или недоступных видео. Добавляйте дубли видео с YouTube, RuTube, VK Video и Vimeo через простой шорткод, а плагин автоматически создаст удобный аккордеон с вкладками.
+
+Если один источник недоступен — пользователи могут переключиться на другой в один клик. Просто, надёжно, удобно!
+
+**Возможности:**
+* Современная архитектура Joomla 5/6 (PSR-4, namespace)
+* Безопасность (экранирование, валидация)
+* Мультиязычность (ru-RU / en-GB)
+* Понятный UI (вкладки, адаптивный дизайн)
+* Настройка порядка вкладок
+* Информативные ошибки (показывают проблемные URL)
+* Возможность вставки 1 видео
+* Информирование в админке Joomla о выходе новой версии
+
+**Как использовать:**
+`{video href="URL1|URL2|URL3|URL4"}`
+
+**Полезные ссылки:**
+* [Скачать и посмотреть документацию](https://vodkomotornik.ru/runduk/download/12-poleznoe/94-multivideo-content-plugin-joomla.html)
 
 </details>
 
