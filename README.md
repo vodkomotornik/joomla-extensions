@@ -13,7 +13,7 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 | Type | Name | Description |
 |------|------|-------------|
 | Plugin | **plg_content_juxtapose** | Content plugin for comparing 2 images (before/after slider) |
-| Editor | **plg_editors_markitup_lite** | Lightweight HTML editor without external dependencies |
+| Plugin | **plg_editors_markitup_lite** | Lightweight HTML editor without external dependencies |
 | Plugin | **plg_content_lazyspoiler** | Interactive spoilers with lazy image loading |
 
 <details>
@@ -100,7 +100,7 @@ GNU General Public License v3.0 or later
 | Тип | Название | Описание |
 |-----|----------|----------|
 | Плагин | **plg_content_juxtapose** | Контент-плагин сравнения 2 изображений (шторка до/после) |
-| Редактор | **plg_editors_markitup_lite** | Легкий HTML-редактор без внешних зависимостей |
+| Плагин | **plg_editors_markitup_lite** | Легкий HTML-редактор без внешних зависимостей |
 | Плагин | **plg_content_lazyspoiler** | Интерактивные спойлеры с ленивой загрузкой картинок |
 
 <details>
