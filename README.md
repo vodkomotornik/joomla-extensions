@@ -14,6 +14,7 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 |------|------|-------------|
 | Plugin | **plg_content_juxtapose** | Content plugin for comparing 2 images (before/after slider) |
 | Editor | **plg_editors_markitup_lite** | Lightweight HTML editor without external dependencies |
+| Plugin | **plg_content_lazyspoiler** | Interactive spoilers with lazy image loading |
 
 <details>
 <summary><b>More about Content Compare Juxtapose plugin (click to expand)</b></summary>
@@ -56,6 +57,28 @@ Works in both the admin panel and the frontend. It can be attached to specific f
 
 </details>
 
+<details>
+<summary><b>More about LazySpoiler plugin (click to expand)</b></summary>
+
+**LazySpoiler** is a content plugin for Joomla 4/5/6 that creates interactive spoilers (collapsible blocks) with lazy image loading. Images inside the spoiler are loaded only when it is opened, which speeds up initial page load and saves user traffic.
+
+**Features:**
+* Full integration with Bootstrap 5 classes
+* Customizable color, size, and animation speed in admin panel
+* Smooth animation for opening/closing
+* Responsive design for all devices
+* Performance: minimal styles, no external CSS/JS
+* Joomla update notifications
+
+**How to use:**
+`{spoiler title="Click to expand"}Content{/spoiler}`
+*(Also supports `{details}` and `{SPOILER}` tags for backward compatibility)*
+
+**Links:**
+* [Download & Documentation](https://vodkomotornik.ru/runduk/download/12-poleznoe/92-lazyspoiler-plugin-joomla.html)
+
+</details>
+
 ### Installation
 
 1. Download the desired ZIP file.
@@ -78,6 +101,7 @@ GNU General Public License v3.0 or later
 |-----|----------|----------|
 | Плагин | **plg_content_juxtapose** | Контент-плагин сравнения 2 изображений (шторка до/после) |
 | Редактор | **plg_editors_markitup_lite** | Легкий HTML-редактор без внешних зависимостей |
+| Плагин | **plg_content_lazyspoiler** | Интерактивные спойлеры с ленивой загрузкой картинок |
 
 <details>
 <summary><b>Подробнее о плагине Content Compare – Juxtapose (нажмите, чтобы развернуть)</b></summary>
@@ -117,6 +141,28 @@ GNU General Public License v3.0 or later
 
 **Полезные ссылки:**
 * [Скачать последнюю версию](https://vodkomotornik.ru/runduk/download/12-poleznoe/93-plugin-joomla-markitup-editor.html)
+
+</details>
+
+<details>
+<summary><b>Подробнее о плагине LazySpoiler (нажмите, чтобы развернуть)</b></summary>
+
+**LazySpoiler** – это контент-плагин для Joomla 4/5/6, который создаёт интерактивные спойлеры (раскрывающиеся блоки) с функцией ленивой загрузки изображений. Картинки внутри спойлера загружаются только в момент его открытия, что ускоряет первоначальную загрузку страницы и экономит трафик пользователей.
+
+**Возможности:**
+* Полная интеграция с классами Bootstrap 5
+* Настройка цвета, размера и скорости анимации в админке
+* Плавная анимация открытия/закрытия
+* Адаптивность на всех устройствах
+* Производительность: минимум стилей, нет внешних CSS/JS
+* Информирование в админке Joomla о выходе новой версии
+
+**Как использовать:**
+`{spoiler title="Нажмите, чтобы раскрыть"}Содержимое спойлера{/spoiler}`
+*(Также поддерживаются теги `{details}` и `{SPOILER}` для обратной совместимости)*
+
+**Полезные ссылки:**
+* [Скачать и посмотреть документацию](https://vodkomotornik.ru/runduk/download/12-poleznoe/92-lazyspoiler-plugin-joomla.html)
 
 </details>
 
