@@ -15,6 +15,7 @@ A collection of various modules and plugins for Joomla 3/4/5/6.
 | Plugin | **plg_content_juxtapose** | Content plugin for comparing 2 images (before/after slider) |
 | Plugin | **plg_editors_markitup_lite** | Lightweight HTML editor without external dependencies |
 | Plugin | **plg_content_lazyspoiler** | Interactive spoilers with lazy image loading |
+| Plugin | **plg_content_fancybox_gallery** | Responsive galleries with WebP previews and FancyBox 5 |
 
 <details>
 <summary><b>More about Content Compare Juxtapose plugin (click to expand)</b></summary>
@@ -79,6 +80,30 @@ Works in both the admin panel and the frontend. It can be attached to specific f
 
 </details>
 
+<details>
+<summary><b>More about FancyBox Gallery plugin (click to expand)</b></summary>
+
+**FancyBox Gallery** is a simple, lightweight, and flexible solution for creating responsive image galleries in Joomla 3.10+, 4, 5, and 6 articles directly from image folders.
+
+The plugin automatically generates optimized WebP previews, integrates with FancyBox 5 for lightbox viewing, and offers flexible display settings.
+
+**Features:**
+* **Auto-optimization:** Generates lightweight WebP thumbnails on the fly.
+* **Supported formats:** jpg, jpeg, png, gif, webp, bmp, avif.
+* **FancyBox 5:** Modern lightbox with gestures, swipes, and responsive navigation.
+* **Flexible controls:** Configure thumbnail count, sizes, and display modes (grid, button, counter, or dots).
+* **SEO & Performance:** Lazy loading, async decoding, valid semantic markup (`<figure>`, `<figcaption>`).
+* **Easy captions:** Support for `labels.txt` to sort images and add unique ALT/TITLE attributes.
+* **Native integration:** Uses standard Joomla 4/5/6 Bootstrap 5 classes without bloating the template with extra CSS.
+* **Update notifications:** Automatically checks for new versions in the Joomla admin panel.
+
+**Important note:** The archive contains **2 versions** — for Joomla 3.10 (v1.2.1) and the current one for Joomla 4/5/6. Unzip and choose the one you need.
+
+**Links:**
+* [Download & Documentation](https://vodkomotornik.ru/runduk/download/12-poleznoe/991-fancybox-gallery-plugin-joomla-download.html)
+
+</details>
+
 ### Installation
 
 1. Download the desired ZIP file.
@@ -102,6 +127,7 @@ GNU General Public License v3.0 or later
 | Плагин | **plg_content_juxtapose** | Контент-плагин сравнения 2 изображений (шторка до/после) |
 | Плагин | **plg_editors_markitup_lite** | Легкий HTML-редактор без внешних зависимостей |
 | Плагин | **plg_content_lazyspoiler** | Интерактивные спойлеры с ленивой загрузкой картинок |
+| Плагин | **plg_content_fancybox_gallery** | Адаптивные галереи с WebP-превью и FancyBox 5 |
 
 <details>
 <summary><b>Подробнее о плагине Content Compare – Juxtapose (нажмите, чтобы развернуть)</b></summary>
@@ -163,6 +189,30 @@ GNU General Public License v3.0 or later
 
 **Полезные ссылки:**
 * [Скачать и посмотреть документацию](https://vodkomotornik.ru/runduk/download/12-poleznoe/92-lazyspoiler-plugin-joomla.html)
+
+</details>
+
+<details>
+<summary><b>Подробнее о плагине FancyBox Gallery (нажмите, чтобы развернуть)</b></summary>
+
+**FancyBox Gallery** – это простое, лёгкое и гибкое решение для создания адаптивных галерей в статьях Joomla 3.10+, 4, 5 и 6 из файлов изображений в папках.
+
+Плагин автоматически генерирует оптимизированные WebP-превью, интегрируется с FancyBox 5 и поддерживает гибкую настройку отображения.
+
+**Возможности:**
+* **Автоматическая оптимизация:** генерация лёгких WebP-превью и миниатюр при первом обращении.
+* **Поддерживаемые форматы:** jpg, jpeg, png, gif, webp, bmp, avif.
+* **FancyBox 5:** современный лайтбокс с поддержкой жестов и свайпов.
+* **Гибкое управление:** настройка количества превью, размеров и режима отображения (сетка, кнопка, счётчик или точки).
+* **SEO и производительность:** ленивая загрузка, асинхронное декодирование, семантическая разметка (`<figure>`, `<figcaption>`).
+* **Удобные подписи:** поддержка файла `labels.txt` для сортировки и добавления ALT/TITLE.
+* **Нативная интеграция:** использует Bootstrap 5-классы Joomla без лишнего CSS.
+* **Уведомления об обновлениях:** проверка новых версий в панели управления.
+
+**Важно:** В архиве **2 версии** — для Joomla 3.10 (v 1.2.1) и текущая для Joomla 4/5/6. Распакуйте и выберите нужную.
+
+**Полезные ссылки:**
+* [Скачать и посмотреть документацию](https://vodkomotornik.ru/runduk/download/12-poleznoe/991-fancybox-gallery-plugin-joomla-download.html)
 
 </details>
 
